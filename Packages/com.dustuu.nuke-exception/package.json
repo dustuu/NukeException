@@ -1,13 +1,13 @@
 {
   "name": "com.dustuu.nuke-exception",
   "displayName": "com.dustuu.nuke-exception",
-  "version": "0.0.1",
-  "description": "Describe this Package",
-  "gitDependencies": {},
-  "vpmDependencies": {
-    "com.vrchat.udonsharp": "1.1.8"
-  },
-  "legacyFolders": {},
-  "legacyFiles": {},
-  "type": "library"
+  "version": "0.0.3",
+  "unity": "2019.4",
+  "description": "Dustuu's amazing test package",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Dustuu",
+    "email": "dustuu@kemocade.com",
+    "url": "https://kemocade.com"
+  }
 }
