@@ -1,0 +1,14 @@
+{
+  "name": "com.dustuu.nuke-exception",
+  "displayName": "com.dustuu.nuke-exception",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.udonsharp": "1.1.8"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\conno\\Source\\Repos\\dustuu\\NukeException\\Packages\\com.dustuu.nuke-exception",
+  "type": "library"
+}
