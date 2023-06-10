@@ -8,5 +8,10 @@
   "vpmDependencies": {
     "com.vrchat.udonsharp": "1.1.8"
   },
-  "type": "library"
+  "type": "library",
+  "author": {
+    "name": "Dustuu",
+    "email": "dustuu@kemocade.com",
+    "url": "https://kemocade.com"
+  }
 }
